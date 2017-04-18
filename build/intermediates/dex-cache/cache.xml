@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\learzhu\AndroidProjectsStudy\CoolReader\app\libs\dom4j-1.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5d3ccc056b6f056dbf0dddfdf43894b9065a8f94">
+        <dex dex="F:\learzhu\AndroidProjectsStudy\CoolReader\app\build\intermediates\pre-dexed\debug\dom4j-1.6.1_66a8bb08df02fb53911ed9951c4c0aa1513b337e.jar" />
+    </item>
+
+</items>

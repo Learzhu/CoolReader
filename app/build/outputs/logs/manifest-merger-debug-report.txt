@@ -1,0 +1,136 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:2:1-75:12
+	package
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:3:11-48
+		INJECTED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml
+		INJECTED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:5:11-38
+		INJECTED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml
+		INJECTED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:4:11-34
+		INJECTED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml
+		INJECTED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:7:5-53
+	android:targetSdkVersion
+		INJECTED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml
+		INJECTED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml
+		INJECTED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml
+permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:9:5-74
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:9:17-72
+permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:10:17-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:12:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:14:5-83
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:14:22-81
+application
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:18:5-74:19
+	android:label
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:20:9-41
+	android:icon
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:19:9-38
+activity#cn.itcreator.android.reader.views.CustomViewActivity
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:22:9-29:20
+	android:label
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:25:13-45
+	android:configChanges
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:24:13-74
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:23:13-80
+intent-filter#android.intent.action.VIEW
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:26:13-28:29
+action#android.intent.action.VIEW
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:27:25-66
+activity#cn.itcreator.android.reader.TxtActivity
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:31:9-38:20
+	android:label
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:34:13-45
+	android:configChanges
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:33:13-74
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:32:13-40
+activity#cn.itcreator.android.reader.IndexActivity
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:41:9-48:20
+	android:label
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:43:13-45
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:42:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:45:17-68
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:46:17-76
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:46:27-74
+activity#cn.itcreator.android.reader.FileBrowser
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:50:9-54:20
+	android:label
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:53:13-45
+	android:configChanges
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:52:13-74
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:51:13-40
+activity#cn.itcreator.android.reader.ImageBrowser
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:55:9-57:86
+	android:configChanges
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:57:13-74
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:56:13-41
+activity#cn.itcreator.android.reader.FontSetActivity
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:58:9-61:59
+	android:label
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:61:13-47
+	android:configChanges
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:60:13-74
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:59:13-44
+activity#cn.itcreator.android.reader.PictureBrowser
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:62:9-65:63
+	android:label
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:65:13-51
+	android:configChanges
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:64:13-74
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:63:13-43
+activity#cn.itcreator.android.reader.HtmlBrowser
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:66:9-69:60
+	android:label
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:69:13-48
+	android:configChanges
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:68:13-74
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:67:13-40
+activity#cn.itcreator.android.reader.UMDBrowser
+ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:70:9-73:60
+	android:label
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:73:13-48
+	android:configChanges
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:72:13-74
+	android:name
+		ADDED from F:\learzhu\AndroidProjectsStudy\CoolReader\app\src\main\AndroidManifest.xml:71:13-38

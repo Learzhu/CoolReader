@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bookmark_dialog.xml",
+        "source": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\layout\\bookmark_dialog.xml"
+    },
+    {
+        "merged": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\book_info.xml",
+        "source": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\layout\\book_info.xml"
+    },
+    {
+        "merged": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reader.xml",
+        "source": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\layout\\reader.xml"
+    },
+    {
+        "merged": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\picturebrowser.xml",
+        "source": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\layout\\picturebrowser.xml"
+    },
+    {
+        "merged": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fontset.xml",
+        "source": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\layout\\fontset.xml"
+    },
+    {
+        "merged": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\catalog_row.xml",
+        "source": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\layout\\catalog_row.xml"
+    },
+    {
+        "merged": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_row.xml",
+        "source": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\layout\\file_row.xml"
+    },
+    {
+        "merged": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indexactivity.xml",
+        "source": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\layout\\indexactivity.xml"
+    },
+    {
+        "merged": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\custom_reader.xml",
+        "source": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\layout\\custom_reader.xml"
+    },
+    {
+        "merged": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bookmarklist.xml",
+        "source": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\layout\\bookmarklist.xml"
+    },
+    {
+        "merged": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\htmlbrowser.xml",
+        "source": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\layout\\htmlbrowser.xml"
+    }
+]

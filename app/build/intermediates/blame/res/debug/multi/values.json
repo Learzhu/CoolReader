@@ -1,0 +1,1407 @@
+[
+    {
+        "outputFile": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 197
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\fileends.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 860,
+                        "endLine": 30,
+                        "endColumn": 12,
+                        "endOffset": 1007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 202,
+                    "endLine": 18,
+                    "endColumn": 16,
+                    "endOffset": 405
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 1015,
+                        "endLine": 46,
+                        "endColumn": 16,
+                        "endOffset": 1228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 410,
+                    "endLine": 27,
+                    "endColumn": 16,
+                    "endOffset": 581
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 681,
+                        "endLine": 26,
+                        "endColumn": 16,
+                        "endOffset": 860
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 586,
+                    "endLine": 34,
+                    "endColumn": 16,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 866,
+                        "endLine": 34,
+                        "endColumn": 16,
+                        "endOffset": 1009
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endLine": 38,
+                    "endColumn": 8,
+                    "endOffset": 813
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\fileends.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 0,
+                        "startOffset": 1253,
+                        "endLine": 46,
+                        "endColumn": 8,
+                        "endOffset": 1341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 818,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 986
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\fileends.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 684,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 991,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 1133
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\fileends.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 0,
+                        "startOffset": 1009,
+                        "endLine": 36,
+                        "endColumn": 12,
+                        "endOffset": 1156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 1138,
+                    "endLine": 56,
+                    "endColumn": 8,
+                    "endOffset": 1225
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\fileends.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 0,
+                        "startOffset": 1158,
+                        "endLine": 41,
+                        "endColumn": 8,
+                        "endOffset": 1249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 1230,
+                    "endLine": 59,
+                    "endColumn": 8,
+                    "endOffset": 1287
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\fileends.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 0,
+                        "startOffset": 1343,
+                        "endLine": 49,
+                        "endColumn": 8,
+                        "endOffset": 1402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 1292,
+                    "endLine": 62,
+                    "endColumn": 8,
+                    "endOffset": 1349
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\fileends.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 0,
+                        "startOffset": 1404,
+                        "endLine": 52,
+                        "endColumn": 8,
+                        "endOffset": 1463
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 1354,
+                    "endColumn": 39,
+                    "endOffset": 1389
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 1,
+                        "startOffset": 2343,
+                        "endColumn": 36,
+                        "endOffset": 2378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 1394,
+                    "endLine": 65,
+                    "endColumn": 10,
+                    "endOffset": 1461
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 1,
+                        "startOffset": 2385,
+                        "endLine": 57,
+                        "endColumn": 10,
+                        "endOffset": 2453
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 1466,
+                    "endLine": 67,
+                    "endColumn": 10,
+                    "endOffset": 1526
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 981,
+                        "endLine": 20,
+                        "endColumn": 10,
+                        "endOffset": 1042
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 1531,
+                    "endColumn": 48,
+                    "endOffset": 1575
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 680,
+                        "endColumn": 45,
+                        "endOffset": 724
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 1580,
+                    "endColumn": 35,
+                    "endOffset": 1611
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 1,
+                        "startOffset": 2074,
+                        "endColumn": 32,
+                        "endOffset": 2105
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 1616,
+                    "endColumn": 42,
+                    "endOffset": 1654
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 0,
+                        "startOffset": 3442,
+                        "endColumn": 38,
+                        "endOffset": 3480
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 1659,
+                    "endColumn": 42,
+                    "endOffset": 1697
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 0,
+                        "startOffset": 3481,
+                        "endColumn": 38,
+                        "endOffset": 3519
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 1702,
+                    "endColumn": 42,
+                    "endOffset": 1740
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 0,
+                        "startOffset": 3520,
+                        "endColumn": 38,
+                        "endOffset": 3558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 1745,
+                    "endColumn": 46,
+                    "endOffset": 1787
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 0,
+                        "startOffset": 3559,
+                        "endColumn": 42,
+                        "endOffset": 3601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 1792,
+                    "endColumn": 41,
+                    "endOffset": 1829
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 0,
+                        "startOffset": 3404,
+                        "endColumn": 37,
+                        "endOffset": 3441
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 1834,
+                    "endColumn": 46,
+                    "endOffset": 1876
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 1229,
+                        "endColumn": 43,
+                        "endOffset": 1271
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 1881,
+                    "endColumn": 37,
+                    "endOffset": 1914
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 1,
+                        "startOffset": 2142,
+                        "endColumn": 34,
+                        "endOffset": 2175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 1919,
+                    "endColumn": 38,
+                    "endOffset": 1953
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 0,
+                        "startOffset": 3602,
+                        "endColumn": 34,
+                        "endOffset": 3636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 1958,
+                    "endColumn": 41,
+                    "endOffset": 1995
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1395,
+                        "endColumn": 38,
+                        "endOffset": 1432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 2000,
+                    "endColumn": 46,
+                    "endOffset": 2042
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 1,
+                        "startOffset": 2250,
+                        "endColumn": 43,
+                        "endOffset": 2292
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 2047,
+                    "endColumn": 43,
+                    "endOffset": 2086
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1351,
+                        "endColumn": 40,
+                        "endOffset": 1390
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 2091,
+                    "endColumn": 49,
+                    "endOffset": 2136
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 1,
+                        "startOffset": 2295,
+                        "endColumn": 46,
+                        "endOffset": 2340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 2141,
+                    "endColumn": 43,
+                    "endOffset": 2180
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 1435,
+                        "endColumn": 40,
+                        "endOffset": 1474
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 2185,
+                    "endColumn": 41,
+                    "endOffset": 2222
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1274,
+                        "endColumn": 38,
+                        "endOffset": 1311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 2227,
+                    "endColumn": 37,
+                    "endOffset": 2260
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 2214,
+                        "endColumn": 34,
+                        "endOffset": 2247
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 2265,
+                    "endColumn": 47,
+                    "endOffset": 2308
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1523,
+                        "endColumn": 44,
+                        "endOffset": 1566
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 2313,
+                    "endColumn": 54,
+                    "endOffset": 2363
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 1900,
+                        "endColumn": 51,
+                        "endOffset": 1950
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 2368,
+                    "endColumn": 46,
+                    "endOffset": 2410
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 1995,
+                        "endColumn": 43,
+                        "endOffset": 2037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 2415,
+                    "endColumn": 45,
+                    "endOffset": 2456
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 1804,
+                        "endColumn": 42,
+                        "endOffset": 1845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 2461,
+                    "endColumn": 53,
+                    "endOffset": 2510
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 1,
+                        "startOffset": 1848,
+                        "endColumn": 50,
+                        "endOffset": 1897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 2515,
+                    "endColumn": 43,
+                    "endOffset": 2554
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 1,
+                        "startOffset": 3360,
+                        "endColumn": 40,
+                        "endOffset": 3399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 2559,
+                    "endColumn": 56,
+                    "endOffset": 2611
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 727,
+                        "endColumn": 53,
+                        "endOffset": 779
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 2616,
+                    "endColumn": 54,
+                    "endOffset": 2666
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 829,
+                        "endColumn": 51,
+                        "endOffset": 879
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 2671,
+                    "endColumn": 54,
+                    "endOffset": 2721
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 882,
+                        "endColumn": 51,
+                        "endOffset": 932
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 2726,
+                    "endColumn": 35,
+                    "endOffset": 2757
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 2040,
+                        "endColumn": 32,
+                        "endOffset": 2071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 2762,
+                    "endColumn": 54,
+                    "endOffset": 2812
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 1,
+                        "startOffset": 2658,
+                        "endColumn": 51,
+                        "endOffset": 2708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2817,
+                    "endColumn": 37,
+                    "endOffset": 2850
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 2178,
+                        "endColumn": 34,
+                        "endOffset": 2211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 2855,
+                    "endColumn": 42,
+                    "endOffset": 2893
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 1,
+                        "startOffset": 2753,
+                        "endColumn": 39,
+                        "endOffset": 2791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 2898,
+                    "endColumn": 58,
+                    "endOffset": 2952
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 1,
+                        "startOffset": 2854,
+                        "endColumn": 55,
+                        "endOffset": 2908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 2957,
+                    "endColumn": 49,
+                    "endOffset": 3002
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 1613,
+                        "endColumn": 46,
+                        "endOffset": 1658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 3007,
+                    "endColumn": 38,
+                    "endOffset": 3041
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 1,
+                        "startOffset": 3135,
+                        "endColumn": 35,
+                        "endOffset": 3169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 3046,
+                    "endColumn": 42,
+                    "endOffset": 3084
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 1,
+                        "startOffset": 2970,
+                        "endColumn": 39,
+                        "endOffset": 3008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 3089,
+                    "endColumn": 48,
+                    "endOffset": 3133
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 1,
+                        "startOffset": 782,
+                        "endColumn": 45,
+                        "endOffset": 826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 3138,
+                    "endColumn": 46,
+                    "endOffset": 3180
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 1,
+                        "startOffset": 1045,
+                        "endColumn": 43,
+                        "endOffset": 1087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 3185,
+                    "endColumn": 45,
+                    "endOffset": 3226
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 1,
+                        "startOffset": 3091,
+                        "endColumn": 42,
+                        "endOffset": 3132
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 3231,
+                    "endColumn": 41,
+                    "endOffset": 3268
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 0,
+                        "startOffset": 3637,
+                        "endColumn": 37,
+                        "endOffset": 3674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 3273,
+                    "endLine": 109,
+                    "endColumn": 47,
+                    "endOffset": 3467
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 2456,
+                        "endLine": 61,
+                        "endColumn": 47,
+                        "endOffset": 2653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 3472,
+                    "endColumn": 61,
+                    "endOffset": 3529
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 1,
+                        "startOffset": 2794,
+                        "endColumn": 58,
+                        "endOffset": 2851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 3534,
+                    "endColumn": 40,
+                    "endOffset": 3570
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 1,
+                        "startOffset": 3052,
+                        "endColumn": 37,
+                        "endOffset": 3088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 3575,
+                    "endColumn": 45,
+                    "endOffset": 3616
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 1477,
+                        "endColumn": 42,
+                        "endOffset": 1518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 3621,
+                    "endColumn": 52,
+                    "endOffset": 3669
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 1753,
+                        "endColumn": 49,
+                        "endOffset": 1801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 3674,
+                    "endColumn": 43,
+                    "endOffset": 3713
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1661,
+                        "endColumn": 40,
+                        "endOffset": 1700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 3718,
+                    "endColumn": 51,
+                    "endOffset": 3765
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 1703,
+                        "endColumn": 48,
+                        "endOffset": 1750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 3770,
+                    "endColumn": 43,
+                    "endOffset": 3809
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 1,
+                        "startOffset": 2711,
+                        "endColumn": 40,
+                        "endOffset": 2750
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 3814,
+                    "endColumn": 51,
+                    "endOffset": 3861
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 1139,
+                        "endColumn": 48,
+                        "endOffset": 1186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 3866,
+                    "endColumn": 50,
+                    "endOffset": 3912
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 1090,
+                        "endColumn": 47,
+                        "endOffset": 1136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 3917,
+                    "endColumn": 38,
+                    "endOffset": 3951
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1314,
+                        "endColumn": 35,
+                        "endOffset": 1348
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 3956,
+                    "endColumn": 42,
+                    "endOffset": 3994
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 1,
+                        "startOffset": 3011,
+                        "endColumn": 39,
+                        "endOffset": 3049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 3999,
+                    "endColumn": 35,
+                    "endOffset": 4030
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 1,
+                        "startOffset": 2108,
+                        "endColumn": 32,
+                        "endOffset": 2139
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 4035,
+                    "endColumn": 43,
+                    "endOffset": 4074
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 1953,
+                        "endColumn": 40,
+                        "endOffset": 1992
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 4079,
+                    "endLine": 130,
+                    "endColumn": 10,
+                    "endOffset": 4257
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 1,
+                        "startOffset": 3172,
+                        "endLine": 82,
+                        "endColumn": 10,
+                        "endOffset": 3357
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 4262,
+                    "endColumn": 58,
+                    "endOffset": 4316
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 1,
+                        "startOffset": 2911,
+                        "endColumn": 55,
+                        "endOffset": 2965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 4321,
+                    "endColumn": 47,
+                    "endOffset": 4364
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 935,
+                        "endColumn": 44,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 4369,
+                    "endColumn": 45,
+                    "endOffset": 4410
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1569,
+                        "endColumn": 42,
+                        "endOffset": 1610
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 4415,
+                    "endColumn": 41,
+                    "endOffset": 4452
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 1189,
+                        "endColumn": 38,
+                        "endOffset": 1226
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 4457,
+                    "endLine": 139,
+                    "endColumn": 9,
+                    "endOffset": 4603
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 685,
+                        "endLine": 22,
+                        "endColumn": 9,
+                        "endOffset": 835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 140,
+                    "startColumn": 4,
+                    "startOffset": 4608,
+                    "endLine": 144,
+                    "endColumn": 9,
+                    "endOffset": 4805
+                },
+                "from": {
+                    "file": "F:\\learzhu\\AndroidProjectsStudy\\CoolReader\\app\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 838,
+                        "endLine": 27,
+                        "endColumn": 9,
+                        "endOffset": 1039
+                    }
+                }
+            }
+        ]
+    }
+]
